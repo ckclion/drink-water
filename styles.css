@@ -4,14 +4,21 @@ header {
 }
 
 footer {
-    position: fixed;
-    bottom: 0px;
+    position: absolute;
+    bottom: 5px;
     left: 50%;
     transform: translateX(-50%);
     font-weight: bold;
 }
 
 main {
-    margin-top: 200px;
-    text-align:center;
+    margin-top: 350px;
+    text-align: center;
+}
+
+img {
+    position: absolute;
+    top: 80px;
+    left: 50%;
+    transform: translateX(-50%);
 }
