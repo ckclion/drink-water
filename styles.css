@@ -1,0 +1,14 @@
+header {
+    margin: auto;
+    font-size: 125%;
+}
+
+footer {
+    margin-bottom: 10px;
+    text-align: center;
+    font-size: 50%;
+}
+
+button {
+    margin:auto;
+}
