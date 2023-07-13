@@ -18,7 +18,27 @@ main {
 
 img {
     position: absolute;
-    top: 80px;
     left: 50%;
     transform: translateX(-50%);
+    opacity: 0;
+}
+
+#stage1 {
+    top: 180px;
+}
+
+#stage2 {
+    top: 160px;
+}
+
+#stage3 {
+    top: 120px;
+}
+
+#stage4 {
+    top: 80px;
+}
+
+div {
+    margin-top: 10px
 }
