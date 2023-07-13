@@ -4,11 +4,14 @@ header {
 }
 
 footer {
-    margin-bottom: 10px;
-    text-align: center;
-    font-size: 50%;
+    position: fixed;
+    bottom: 0px;
+    left: 50%;
+    transform: translateX(-50%);
+    font-weight: bold;
 }
 
-button {
-    margin:auto;
+main {
+    margin-top: 200px;
+    text-align:center;
 }
